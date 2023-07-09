@@ -1,8 +1,10 @@
 {
   "files.associations": {
-    "*.css": "tailwindcss",
+    "*.css": "scss",
+    // "*.css": "tailwindcss",
   },
   "vsicons.associations.files": [
+    { "icon": "tailwind", "extensions": ["scss"], "format": "svg" },
     { "icon": "tailwind", "extensions": ["css"], "format": "svg" },
   ],
 }
